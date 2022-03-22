@@ -26,13 +26,13 @@ npm run start
 ## Screenshot
 
 ##### Page 1
-![Page](./screenshots/register.png "Page")
+<img src="./screenshots/Screenshot-1.png" width="300" height="600">
 
 ##### Variant 1
-![Variant](./screenshots/register.png "Variant")
+<img src="./screenshots/Screenshot-2.png" width="300" height="100">
 
 ##### Variant 2
-![Variant](./screenshots/register.png "Variant")
+<img src="./screenshots/Screenshot-3.png" width="300" height="100">
 
 ##### Variant 3
-![Variant](./screenshots/register.png "Variant")
+<img src="./screenshots/Screenshot-4.png" width="300" height="100">
